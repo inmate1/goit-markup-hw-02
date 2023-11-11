@@ -94,10 +94,7 @@ a {
 }
 
 .hero .btn {
-  /* display: inline-flex; */
-  /* align-items: flex-start; */
   background: var(--IRIS, #4d5ae5);
-  /* box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15); */
   cursor: pointer;
   color: var(--WHITE, #fff);
   /* Button Text */
@@ -117,7 +114,6 @@ a {
 /* hidden element */
 .info .invisible {
   visibility: hidden;
-  /* display: none; */
 }
 
 .info .info-list .list-title {
